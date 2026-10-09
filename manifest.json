@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-09T12:06:32.427049+00:00",
+  "updated_at": "2026-10-09T13:03:39.155362+00:00",
   "base_url": "https://acocrami1977-design.github.io/V36-Trade-Reports",
   "reports": {
     "Türkiye": {
@@ -9,6 +9,41 @@
       "ar": "ar/t-rkiye.pdf",
       "ar_bytes": 5521915,
       "ar_generated_at": "2026-10-09T12:06:32.426007+00:00"
+    },
+    "Saudi Arabia": {
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "ar": "ar/saudi-arabia.pdf",
+      "ar_bytes": 5563600,
+      "ar_generated_at": "2026-10-09T12:59:36.748052+00:00"
+    },
+    "United Arab Emirates": {
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_en": "United Arab Emirates",
+      "ar": "ar/united-arab-emirates.pdf",
+      "ar_bytes": 5503074,
+      "ar_generated_at": "2026-10-09T13:00:39.165633+00:00"
+    },
+    "Iraq": {
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "ar": "ar/iraq.pdf",
+      "ar_bytes": 5474150,
+      "ar_generated_at": "2026-10-09T13:01:49.397951+00:00"
+    },
+    "Egypt": {
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "ar": "ar/egypt.pdf",
+      "ar_bytes": 5505070,
+      "ar_generated_at": "2026-10-09T13:02:44.215660+00:00"
+    },
+    "United States": {
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "ar": "ar/united-states.pdf",
+      "ar_bytes": 5537606,
+      "ar_generated_at": "2026-10-09T13:03:39.154102+00:00"
     }
   }
 }
