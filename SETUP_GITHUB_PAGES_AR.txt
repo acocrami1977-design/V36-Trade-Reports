@@ -1,0 +1,18 @@
+إنشاء المستودع العام للتقارير
+==============================
+اسم المستودع المطلوب:
+V36-Trade-Reports
+
+Visibility:
+Public
+
+بعد رفع الملفات:
+Settings -> Pages -> Build and deployment -> Deploy from a branch
+Branch: main
+Folder: /(root)
+
+الرابط المتوقع:
+https://acocrami1977-design.github.io/V36-Trade-Reports/
+
+ملاحظة:
+GitHub Pages على الخطة المجانية يعمل من المستودعات العامة.
