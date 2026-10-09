@@ -1,6 +1,14 @@
 {
   "version": 1,
-  "updated_at": "",
+  "updated_at": "2026-10-09T12:06:32.427049+00:00",
   "base_url": "https://acocrami1977-design.github.io/V36-Trade-Reports",
-  "reports": {}
+  "reports": {
+    "Türkiye": {
+      "country_ar": "تركيا",
+      "country_en": "Türkiye",
+      "ar": "ar/t-rkiye.pdf",
+      "ar_bytes": 5521915,
+      "ar_generated_at": "2026-10-09T12:06:32.426007+00:00"
+    }
+  }
 }
