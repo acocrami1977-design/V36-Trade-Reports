@@ -1,49 +1,1252 @@
 {
-  "version": 1,
-  "updated_at": "2026-10-09T13:03:39.155362+00:00",
-  "base_url": "https://acocrami1977-design.github.io/V36-Trade-Reports",
+  "version": 2,
+  "updated_at": "2026-10-10T11:38:46.597075+00:00",
+  "base_url": "https://github.com/acocrami1977-design/V36-Trade-Reports/releases/download",
+  "storage": "github_releases",
+  "release_tags": {
+    "ar": "reports-ar-2025",
+    "en": "reports-en-2025"
+  },
   "reports": {
-    "Türkiye": {
-      "country_ar": "تركيا",
-      "country_en": "Türkiye",
-      "ar": "ar/t-rkiye.pdf",
-      "ar_bytes": 5521915,
-      "ar_generated_at": "2026-10-09T12:06:32.426007+00:00"
+    "Afghanistan": {
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "ar": "reports-ar-2025/afghanistan.pdf",
+      "en": "reports-en-2025/afghanistan.pdf",
+      "ar_bytes": 5483645,
+      "en_bytes": 6091101
     },
-    "Saudi Arabia": {
-      "country_ar": "المملكة العربية السعودية",
-      "country_en": "Saudi Arabia",
-      "ar": "ar/saudi-arabia.pdf",
-      "ar_bytes": 5563600,
-      "ar_generated_at": "2026-10-09T12:59:36.748052+00:00"
+    "Albania": {
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "ar": "reports-ar-2025/albania.pdf",
+      "en": "reports-en-2025/albania.pdf",
+      "ar_bytes": 5426979,
+      "en_bytes": 6044446
     },
-    "United Arab Emirates": {
-      "country_ar": "الإمارات العربية المتحدة",
-      "country_en": "United Arab Emirates",
-      "ar": "ar/united-arab-emirates.pdf",
-      "ar_bytes": 5503074,
-      "ar_generated_at": "2026-10-09T13:00:39.165633+00:00"
+    "Algeria": {
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "ar": "reports-ar-2025/algeria.pdf",
+      "en": "reports-en-2025/algeria.pdf",
+      "ar_bytes": 5468674,
+      "en_bytes": 6071226
     },
-    "Iraq": {
-      "country_ar": "العراق",
-      "country_en": "Iraq",
-      "ar": "ar/iraq.pdf",
-      "ar_bytes": 5474150,
-      "ar_generated_at": "2026-10-09T13:01:49.397951+00:00"
+    "Angola": {
+      "country_ar": "أنغولا",
+      "country_en": "Angola",
+      "ar": "reports-ar-2025/angola.pdf",
+      "en": "reports-en-2025/angola.pdf",
+      "ar_bytes": 5342173,
+      "en_bytes": 5948595
+    },
+    "Argentina": {
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "ar": "reports-ar-2025/argentina.pdf",
+      "en": "reports-en-2025/argentina.pdf",
+      "ar_bytes": 5417435,
+      "en_bytes": 6029588
+    },
+    "Armenia": {
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "ar": "reports-ar-2025/armenia.pdf",
+      "en": "reports-en-2025/armenia.pdf",
+      "ar_bytes": 5316994,
+      "en_bytes": 5945915
+    },
+    "Aruba": {
+      "country_ar": "أروبا",
+      "country_en": "Aruba",
+      "ar": "reports-ar-2025/aruba.pdf",
+      "en": "reports-en-2025/aruba.pdf",
+      "ar_bytes": 5281340,
+      "en_bytes": 5890156
+    },
+    "Australia": {
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "ar": "reports-ar-2025/australia.pdf",
+      "en": "reports-en-2025/australia.pdf",
+      "ar_bytes": 5505682,
+      "en_bytes": 6123106
+    },
+    "Austria": {
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "ar": "reports-ar-2025/austria.pdf",
+      "en": "reports-en-2025/austria.pdf",
+      "ar_bytes": 5445371,
+      "en_bytes": 6046378
+    },
+    "Azerbaijan": {
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "ar": "reports-ar-2025/azerbaijan.pdf",
+      "en": "reports-en-2025/azerbaijan.pdf",
+      "ar_bytes": 5334706,
+      "en_bytes": 5951609
+    },
+    "Bahrain": {
+      "country_ar": "البحرين",
+      "country_en": "Bahrain",
+      "ar": "reports-ar-2025/bahrain.pdf",
+      "en": "reports-en-2025/bahrain.pdf",
+      "ar_bytes": 5478761,
+      "en_bytes": 6090429
+    },
+    "Bangladesh": {
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "ar": "reports-ar-2025/bangladesh.pdf",
+      "en": "reports-en-2025/bangladesh.pdf",
+      "ar_bytes": 5435164,
+      "en_bytes": 6049420
+    },
+    "Belgium": {
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "ar": "reports-ar-2025/belgium.pdf",
+      "en": "reports-en-2025/belgium.pdf",
+      "ar_bytes": 5440827,
+      "en_bytes": 6056554
+    },
+    "Benin": {
+      "country_ar": "بنين",
+      "country_en": "Benin",
+      "ar": "reports-ar-2025/benin.pdf",
+      "en": "reports-en-2025/benin.pdf",
+      "ar_bytes": 5270630,
+      "en_bytes": 5870797
+    },
+    "Bolivia": {
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "ar": "reports-ar-2025/bolivia.pdf",
+      "en": "reports-en-2025/bolivia.pdf",
+      "ar_bytes": 5323227,
+      "en_bytes": 5958173
+    },
+    "Bosnia and Herzegovina": {
+      "country_ar": "البوسنة والهرسك",
+      "country_en": "Bosnia and Herzegovina",
+      "ar": "reports-ar-2025/bosnia-and-herzegovina.pdf",
+      "en": "reports-en-2025/bosnia-and-herzegovina.pdf",
+      "ar_bytes": 5509881,
+      "en_bytes": 6097873
+    },
+    "Brazil": {
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "ar": "reports-ar-2025/brazil.pdf",
+      "en": "reports-en-2025/brazil.pdf",
+      "ar_bytes": 5474479,
+      "en_bytes": 6077534
+    },
+    "Brunei": {
+      "country_ar": "بروني دار السلام",
+      "country_en": "Brunei",
+      "ar": "reports-ar-2025/brunei.pdf",
+      "en": "reports-en-2025/brunei.pdf",
+      "ar_bytes": 5364748,
+      "en_bytes": 5977179
+    },
+    "Bulgaria": {
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "ar": "reports-ar-2025/bulgaria.pdf",
+      "en": "reports-en-2025/bulgaria.pdf",
+      "ar_bytes": 5403347,
+      "en_bytes": 6015286
+    },
+    "Burkina Faso": {
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "ar": "reports-ar-2025/burkina-faso.pdf",
+      "en": "reports-en-2025/burkina-faso.pdf",
+      "ar_bytes": 5278835,
+      "en_bytes": 5906575
+    },
+    "Burundi": {
+      "country_ar": "بوروندي",
+      "country_en": "Burundi",
+      "ar": "reports-ar-2025/burundi.pdf",
+      "en": "reports-en-2025/burundi.pdf",
+      "ar_bytes": 5276399,
+      "en_bytes": 5872343
+    },
+    "Cambodia": {
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "ar": "reports-ar-2025/cambodia.pdf",
+      "en": "reports-en-2025/cambodia.pdf",
+      "ar_bytes": 5399941,
+      "en_bytes": 6018637
+    },
+    "Cameroon": {
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "ar": "reports-ar-2025/cameroon.pdf",
+      "en": "reports-en-2025/cameroon.pdf",
+      "ar_bytes": 5370367,
+      "en_bytes": 5977209
+    },
+    "Canada": {
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "ar": "reports-ar-2025/canada.pdf",
+      "en": "reports-en-2025/canada.pdf",
+      "ar_bytes": 5489035,
+      "en_bytes": 6101008
+    },
+    "Chad": {
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "ar": "reports-ar-2025/chad.pdf",
+      "en": "reports-en-2025/chad.pdf",
+      "ar_bytes": 5333515,
+      "en_bytes": 5947725
+    },
+    "Chile": {
+      "country_ar": "تشيلي",
+      "country_en": "Chile",
+      "ar": "reports-ar-2025/chile.pdf",
+      "en": "reports-en-2025/chile.pdf",
+      "ar_bytes": 5386961,
+      "en_bytes": 5983282
+    },
+    "China": {
+      "country_ar": "الصين",
+      "country_en": "China",
+      "ar": "reports-ar-2025/china.pdf",
+      "en": "reports-en-2025/china.pdf",
+      "ar_bytes": 5489081,
+      "en_bytes": 6101441
+    },
+    "Colombia": {
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "ar": "reports-ar-2025/colombia.pdf",
+      "en": "reports-en-2025/colombia.pdf",
+      "ar_bytes": 5405373,
+      "en_bytes": 6013476
+    },
+    "Congo": {
+      "country_ar": "الكونغو",
+      "country_en": "Congo",
+      "ar": "reports-ar-2025/congo.pdf",
+      "en": "reports-en-2025/congo.pdf",
+      "ar_bytes": 5377435,
+      "en_bytes": 5990528
+    },
+    "Costa Rica": {
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "ar": "reports-ar-2025/costa-rica.pdf",
+      "en": "reports-en-2025/costa-rica.pdf",
+      "ar_bytes": 5386384,
+      "en_bytes": 6002307
+    },
+    "Croatia": {
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "ar": "reports-ar-2025/croatia.pdf",
+      "en": "reports-en-2025/croatia.pdf",
+      "ar_bytes": 5440076,
+      "en_bytes": 6046792
+    },
+    "Cuba": {
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "ar": "reports-ar-2025/cuba.pdf",
+      "en": "reports-en-2025/cuba.pdf",
+      "ar_bytes": 5211246,
+      "en_bytes": 5823849
+    },
+    "Cyprus": {
+      "country_ar": "قبرص",
+      "country_en": "Cyprus",
+      "ar": "reports-ar-2025/cyprus.pdf",
+      "en": "reports-en-2025/cyprus.pdf",
+      "ar_bytes": 5491282,
+      "en_bytes": 6099585
+    },
+    "Czechia": {
+      "country_ar": "تشيكيا",
+      "country_en": "Czechia",
+      "ar": "reports-ar-2025/czechia.pdf",
+      "en": "reports-en-2025/czechia.pdf",
+      "ar_bytes": 5442278,
+      "en_bytes": 6041072
+    },
+    "Côte d’Ivoire": {
+      "country_ar": "كوت ديفوار",
+      "country_en": "Côte d’Ivoire",
+      "ar": "reports-ar-2025/c-te-d-ivoire.pdf",
+      "en": "reports-en-2025/c-te-d-ivoire.pdf",
+      "ar_bytes": 5368754,
+      "en_bytes": 5969575
+    },
+    "Denmark": {
+      "country_ar": "الدنمارك",
+      "country_en": "Denmark",
+      "ar": "reports-ar-2025/denmark.pdf",
+      "en": "reports-en-2025/denmark.pdf",
+      "ar_bytes": 5437340,
+      "en_bytes": 6040340
+    },
+    "Djibouti": {
+      "country_ar": "جيبوتي",
+      "country_en": "Djibouti",
+      "ar": "reports-ar-2025/djibouti.pdf",
+      "en": "reports-en-2025/djibouti.pdf",
+      "ar_bytes": 5277020,
+      "en_bytes": 5877081
+    },
+    "Dominican Republic": {
+      "country_ar": "الجمهورية الدومينيكية",
+      "country_en": "Dominican Republic",
+      "ar": "reports-ar-2025/dominican-republic.pdf",
+      "en": "reports-en-2025/dominican-republic.pdf",
+      "ar_bytes": 5430874,
+      "en_bytes": 6030638
+    },
+    "Ecuador": {
+      "country_ar": "إكوادور",
+      "country_en": "Ecuador",
+      "ar": "reports-ar-2025/ecuador.pdf",
+      "en": "reports-en-2025/ecuador.pdf",
+      "ar_bytes": 5405811,
+      "en_bytes": 6014561
     },
     "Egypt": {
       "country_ar": "مصر",
       "country_en": "Egypt",
-      "ar": "ar/egypt.pdf",
+      "ar": "reports-ar-2025/egypt.pdf",
+      "en": "reports-en-2025/egypt.pdf",
       "ar_bytes": 5505070,
-      "ar_generated_at": "2026-10-09T13:02:44.215660+00:00"
+      "en_bytes": 6106716
+    },
+    "El Salvador": {
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "ar": "reports-ar-2025/el-salvador.pdf",
+      "en": "reports-en-2025/el-salvador.pdf",
+      "ar_bytes": 5346560,
+      "en_bytes": 5977269
+    },
+    "Eritrea": {
+      "country_ar": "إريتريا",
+      "country_en": "Eritrea",
+      "ar": "reports-ar-2025/eritrea.pdf",
+      "en": "reports-en-2025/eritrea.pdf",
+      "ar_bytes": 5277084,
+      "en_bytes": 5890598
+    },
+    "Estonia": {
+      "country_ar": "إستونيا",
+      "country_en": "Estonia",
+      "ar": "reports-ar-2025/estonia.pdf",
+      "en": "reports-en-2025/estonia.pdf",
+      "ar_bytes": 5379170,
+      "en_bytes": 5990145
+    },
+    "Ethiopia": {
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "ar": "reports-ar-2025/ethiopia.pdf",
+      "en": "reports-en-2025/ethiopia.pdf",
+      "ar_bytes": 5442169,
+      "en_bytes": 6040538
+    },
+    "Fiji": {
+      "country_ar": "فيجي",
+      "country_en": "Fiji",
+      "ar": "reports-ar-2025/fiji.pdf",
+      "en": "reports-en-2025/fiji.pdf",
+      "ar_bytes": 5366065,
+      "en_bytes": 5962436
+    },
+    "Finland": {
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "ar": "reports-ar-2025/finland.pdf",
+      "en": "reports-en-2025/finland.pdf",
+      "ar_bytes": 5383896,
+      "en_bytes": 5986633
+    },
+    "France": {
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "ar": "reports-ar-2025/france.pdf",
+      "en": "reports-en-2025/france.pdf",
+      "ar_bytes": 5475768,
+      "en_bytes": 6073618
+    },
+    "Gabon": {
+      "country_ar": "غابون",
+      "country_en": "Gabon",
+      "ar": "reports-ar-2025/gabon.pdf",
+      "en": "reports-en-2025/gabon.pdf",
+      "ar_bytes": 5343084,
+      "en_bytes": 5972129
+    },
+    "Gambia": {
+      "country_ar": "غامبيا",
+      "country_en": "Gambia",
+      "ar": "reports-ar-2025/gambia.pdf",
+      "en": "reports-en-2025/gambia.pdf",
+      "ar_bytes": 5288367,
+      "en_bytes": 5906179
+    },
+    "Georgia": {
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "ar": "reports-ar-2025/georgia.pdf",
+      "en": "reports-en-2025/georgia.pdf",
+      "ar_bytes": 5380793,
+      "en_bytes": 5999524
+    },
+    "Germany": {
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "ar": "reports-ar-2025/germany.pdf",
+      "en": "reports-en-2025/germany.pdf",
+      "ar_bytes": 5482145,
+      "en_bytes": 6099481
+    },
+    "Ghana": {
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "ar": "reports-ar-2025/ghana.pdf",
+      "en": "reports-en-2025/ghana.pdf",
+      "ar_bytes": 5401749,
+      "en_bytes": 6009163
+    },
+    "Greece": {
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "ar": "reports-ar-2025/greece.pdf",
+      "en": "reports-en-2025/greece.pdf",
+      "ar_bytes": 5474660,
+      "en_bytes": 5570557
+    },
+    "Guatemala": {
+      "country_ar": "غواتيمالا",
+      "country_en": "Guatemala",
+      "ar": "reports-ar-2025/guatemala.pdf",
+      "en": "reports-en-2025/guatemala.pdf",
+      "ar_bytes": 5371579,
+      "en_bytes": 5992664
+    },
+    "Guinea": {
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "ar": "reports-ar-2025/guinea.pdf",
+      "en": "reports-en-2025/guinea.pdf",
+      "ar_bytes": 5239130,
+      "en_bytes": 5850434
+    },
+    "Haiti": {
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "ar": "reports-ar-2025/haiti.pdf",
+      "en": "reports-en-2025/haiti.pdf",
+      "ar_bytes": 5254108,
+      "en_bytes": 5855023
+    },
+    "Honduras": {
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "ar": "reports-ar-2025/honduras.pdf",
+      "en": "reports-en-2025/honduras.pdf",
+      "ar_bytes": 5352412,
+      "en_bytes": 5967586
+    },
+    "Hong Kong": {
+      "country_ar": "هونغ كونغ",
+      "country_en": "Hong Kong",
+      "ar": "reports-ar-2025/hong-kong.pdf",
+      "en": "reports-en-2025/hong-kong.pdf",
+      "ar_bytes": 5536380,
+      "en_bytes": 6122193
+    },
+    "Hungary": {
+      "country_ar": "هنغاريا",
+      "country_en": "Hungary",
+      "ar": "reports-ar-2025/hungary.pdf",
+      "en": "reports-en-2025/hungary.pdf",
+      "ar_bytes": 5435790,
+      "en_bytes": 6043113
+    },
+    "Iceland": {
+      "country_ar": "آيسلندا",
+      "country_en": "Iceland",
+      "ar": "reports-ar-2025/iceland.pdf",
+      "en": "reports-en-2025/iceland.pdf",
+      "ar_bytes": 5315171,
+      "en_bytes": 5936236
+    },
+    "India": {
+      "country_ar": "الهند",
+      "country_en": "India",
+      "ar": "reports-ar-2025/india.pdf",
+      "en": "reports-en-2025/india.pdf",
+      "ar_bytes": 5480239,
+      "en_bytes": 6084340
+    },
+    "Indonesia": {
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "ar": "reports-ar-2025/indonesia.pdf",
+      "en": "reports-en-2025/indonesia.pdf",
+      "ar_bytes": 5453258,
+      "en_bytes": 6060613
+    },
+    "Iran": {
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "ar": "reports-ar-2025/iran.pdf",
+      "en": "reports-en-2025/iran.pdf",
+      "ar_bytes": 5448478,
+      "en_bytes": 6049477
+    },
+    "Iraq": {
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "ar": "reports-ar-2025/iraq.pdf",
+      "en": "reports-en-2025/iraq.pdf",
+      "ar_bytes": 5474150,
+      "en_bytes": 6079688
+    },
+    "Ireland": {
+      "country_ar": "آيرلندا",
+      "country_en": "Ireland",
+      "ar": "reports-ar-2025/ireland.pdf",
+      "en": "reports-en-2025/ireland.pdf",
+      "ar_bytes": 5380793,
+      "en_bytes": 5995657
+    },
+    "Italy": {
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "ar": "reports-ar-2025/italy.pdf",
+      "en": "reports-en-2025/italy.pdf",
+      "ar_bytes": 5469076,
+      "en_bytes": 6067305
+    },
+    "Jamaica": {
+      "country_ar": "جامايكا",
+      "country_en": "Jamaica",
+      "ar": "reports-ar-2025/jamaica.pdf",
+      "en": "reports-en-2025/jamaica.pdf",
+      "ar_bytes": 5405714,
+      "en_bytes": 6019145
+    },
+    "Japan": {
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "ar": "reports-ar-2025/japan.pdf",
+      "en": "reports-en-2025/japan.pdf",
+      "ar_bytes": 5463859,
+      "en_bytes": 6064767
+    },
+    "Kazakhstan": {
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "ar": "reports-ar-2025/kazakhstan.pdf",
+      "en": "reports-en-2025/kazakhstan.pdf",
+      "ar_bytes": 5433650,
+      "en_bytes": 6058811
+    },
+    "Kenya": {
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "ar": "reports-ar-2025/kenya.pdf",
+      "en": "reports-en-2025/kenya.pdf",
+      "ar_bytes": 5459774,
+      "en_bytes": 6067689
+    },
+    "Kuwait": {
+      "country_ar": "الكويت",
+      "country_en": "Kuwait",
+      "ar": "reports-ar-2025/kuwait.pdf",
+      "en": "reports-en-2025/kuwait.pdf",
+      "ar_bytes": 5498007,
+      "en_bytes": 6114095
+    },
+    "Kyrgyzstan": {
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "ar": "reports-ar-2025/kyrgyzstan.pdf",
+      "en": "reports-en-2025/kyrgyzstan.pdf",
+      "ar_bytes": 5385924,
+      "en_bytes": 6022912
+    },
+    "Laos": {
+      "country_ar": "لاوس",
+      "country_en": "Laos",
+      "ar": "reports-ar-2025/laos.pdf",
+      "en": "reports-en-2025/laos.pdf",
+      "ar_bytes": 5301889,
+      "en_bytes": 5892768
+    },
+    "Latvia": {
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "ar": "reports-ar-2025/latvia.pdf",
+      "en": "reports-en-2025/latvia.pdf",
+      "ar_bytes": 5363255,
+      "en_bytes": 5970092
+    },
+    "Lebanon": {
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "ar": "reports-ar-2025/lebanon.pdf",
+      "en": "reports-en-2025/lebanon.pdf",
+      "ar_bytes": 5514115,
+      "en_bytes": 6134593
+    },
+    "Liberia": {
+      "country_ar": "ليبيريا",
+      "country_en": "Liberia",
+      "ar": "reports-ar-2025/liberia.pdf",
+      "en": "reports-en-2025/liberia.pdf",
+      "ar_bytes": 5301262,
+      "en_bytes": 5923073
+    },
+    "Libya": {
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "ar": "reports-ar-2025/libya.pdf",
+      "en": "reports-en-2025/libya.pdf",
+      "ar_bytes": 5414848,
+      "en_bytes": 6029153
+    },
+    "Liechtenstein": {
+      "country_ar": "ليختنشتاين",
+      "country_en": "Liechtenstein",
+      "ar": "reports-ar-2025/liechtenstein.pdf",
+      "en": "reports-en-2025/liechtenstein.pdf",
+      "ar_bytes": 5268205,
+      "en_bytes": 5878028
+    },
+    "Lithuania": {
+      "country_ar": "ليتوانيا",
+      "country_en": "Lithuania",
+      "ar": "reports-ar-2025/lithuania.pdf",
+      "en": "reports-en-2025/lithuania.pdf",
+      "ar_bytes": 5370473,
+      "en_bytes": 5976625
+    },
+    "Luxembourg": {
+      "country_ar": "لوكسمبورغ",
+      "country_en": "Luxembourg",
+      "ar": "reports-ar-2025/luxembourg.pdf",
+      "en": "reports-en-2025/luxembourg.pdf",
+      "ar_bytes": 5375151,
+      "en_bytes": 5983413
+    },
+    "Madagascar": {
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "ar": "reports-ar-2025/madagascar.pdf",
+      "en": "reports-en-2025/madagascar.pdf",
+      "ar_bytes": 5342815,
+      "en_bytes": 5972497
+    },
+    "Malawi": {
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "ar": "reports-ar-2025/malawi.pdf",
+      "en": "reports-en-2025/malawi.pdf",
+      "ar_bytes": 5255165,
+      "en_bytes": 5862920
+    },
+    "Malaysia": {
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "ar": "reports-ar-2025/malaysia.pdf",
+      "en": "reports-en-2025/malaysia.pdf",
+      "ar_bytes": 5481361,
+      "en_bytes": 6094334
+    },
+    "Maldives": {
+      "country_ar": "ملديف",
+      "country_en": "Maldives",
+      "ar": "reports-ar-2025/maldives.pdf",
+      "en": "reports-en-2025/maldives.pdf",
+      "ar_bytes": 5378658,
+      "en_bytes": 6020262
+    },
+    "Mali": {
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "ar": "reports-ar-2025/mali.pdf",
+      "en": "reports-en-2025/mali.pdf",
+      "ar_bytes": 5372385,
+      "en_bytes": 5990638
+    },
+    "Malta": {
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "ar": "reports-ar-2025/malta.pdf",
+      "en": "reports-en-2025/malta.pdf",
+      "ar_bytes": 5398947,
+      "en_bytes": 6005918
+    },
+    "Mauritania": {
+      "country_ar": "موريتانيا",
+      "country_en": "Mauritania",
+      "ar": "reports-ar-2025/mauritania.pdf",
+      "en": "reports-en-2025/mauritania.pdf",
+      "ar_bytes": 5299260,
+      "en_bytes": 5899446
+    },
+    "Mauritius": {
+      "country_ar": "موريشيوس",
+      "country_en": "Mauritius",
+      "ar": "reports-ar-2025/mauritius.pdf",
+      "en": "reports-en-2025/mauritius.pdf",
+      "ar_bytes": 5345507,
+      "en_bytes": 5958693
+    },
+    "Mexico": {
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "ar": "reports-ar-2025/mexico.pdf",
+      "en": "reports-en-2025/mexico.pdf",
+      "ar_bytes": 5485523,
+      "en_bytes": 6091255
+    },
+    "Moldova": {
+      "country_ar": "مولدوفا",
+      "country_en": "Moldova",
+      "ar": "reports-ar-2025/moldova.pdf",
+      "en": "reports-en-2025/moldova.pdf",
+      "ar_bytes": 5387563,
+      "en_bytes": 6006511
+    },
+    "Mongolia": {
+      "country_ar": "منغوليا",
+      "country_en": "Mongolia",
+      "ar": "reports-ar-2025/mongolia.pdf",
+      "en": "reports-en-2025/mongolia.pdf",
+      "ar_bytes": 5272326,
+      "en_bytes": 5907553
+    },
+    "Morocco": {
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "ar": "reports-ar-2025/morocco.pdf",
+      "en": "reports-en-2025/morocco.pdf",
+      "ar_bytes": 5481203,
+      "en_bytes": 6091828
+    },
+    "Mozambique": {
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "ar": "reports-ar-2025/mozambique.pdf",
+      "en": "reports-en-2025/mozambique.pdf",
+      "ar_bytes": 5355283,
+      "en_bytes": 5969054
+    },
+    "Myanmar": {
+      "country_ar": "ميانمار",
+      "country_en": "Myanmar",
+      "ar": "reports-ar-2025/myanmar.pdf",
+      "en": "reports-en-2025/myanmar.pdf",
+      "ar_bytes": 5267539,
+      "en_bytes": 5888358
+    },
+    "Namibia": {
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "ar": "reports-ar-2025/namibia.pdf",
+      "en": "reports-en-2025/namibia.pdf",
+      "ar_bytes": 5435302,
+      "en_bytes": 6052446
+    },
+    "Nepal": {
+      "country_ar": "نيبال",
+      "country_en": "Nepal",
+      "ar": "reports-ar-2025/nepal.pdf",
+      "en": "reports-en-2025/nepal.pdf",
+      "ar_bytes": 5417182,
+      "en_bytes": 6060129
+    },
+    "Netherlands": {
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "ar": "reports-ar-2025/netherlands.pdf",
+      "en": "reports-en-2025/netherlands.pdf",
+      "ar_bytes": 5471101,
+      "en_bytes": 6088568
+    },
+    "New Zealand": {
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "ar": "reports-ar-2025/new-zealand.pdf",
+      "en": "reports-en-2025/new-zealand.pdf",
+      "ar_bytes": 5479969,
+      "en_bytes": 6112591
+    },
+    "Nicaragua": {
+      "country_ar": "نيكاراغوا",
+      "country_en": "Nicaragua",
+      "ar": "reports-ar-2025/nicaragua.pdf",
+      "en": "reports-en-2025/nicaragua.pdf",
+      "ar_bytes": 5307133,
+      "en_bytes": 5930526
+    },
+    "Niger": {
+      "country_ar": "النيجر",
+      "country_en": "Niger",
+      "ar": "reports-ar-2025/niger.pdf",
+      "en": "reports-en-2025/niger.pdf",
+      "ar_bytes": 5268498,
+      "en_bytes": 5883567
+    },
+    "Nigeria": {
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "ar": "reports-ar-2025/nigeria.pdf",
+      "en": "reports-en-2025/nigeria.pdf",
+      "ar_bytes": 5417532,
+      "en_bytes": 5706599
+    },
+    "North Macedonia": {
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "ar": "reports-ar-2025/north-macedonia.pdf",
+      "en": "reports-en-2025/north-macedonia.pdf",
+      "ar_bytes": 5407608,
+      "en_bytes": 6018921
+    },
+    "Norway": {
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "ar": "reports-ar-2025/norway.pdf",
+      "en": "reports-en-2025/norway.pdf",
+      "ar_bytes": 5432935,
+      "en_bytes": 6036371
+    },
+    "Oman": {
+      "country_ar": "سلطنة عُمان",
+      "country_en": "Oman",
+      "ar": "reports-ar-2025/oman.pdf",
+      "en": "reports-en-2025/oman.pdf",
+      "ar_bytes": 5480487,
+      "en_bytes": 6076028
+    },
+    "Pakistan": {
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "ar": "reports-ar-2025/pakistan.pdf",
+      "en": "reports-en-2025/pakistan.pdf",
+      "ar_bytes": 5483110,
+      "en_bytes": 6099495
+    },
+    "Panama": {
+      "country_ar": "بنما",
+      "country_en": "Panama",
+      "ar": "reports-ar-2025/panama.pdf",
+      "en": "reports-en-2025/panama.pdf",
+      "ar_bytes": 5391569,
+      "en_bytes": 6022924
+    },
+    "Papua New Guinea": {
+      "country_ar": "بابوا غينيا",
+      "country_en": "Papua New Guinea",
+      "ar": "reports-ar-2025/papua-new-guinea.pdf",
+      "en": "reports-en-2025/papua-new-guinea.pdf",
+      "ar_bytes": 5239130,
+      "en_bytes": 5866848
+    },
+    "Paraguay": {
+      "country_ar": "باراغواي",
+      "country_en": "Paraguay",
+      "ar": "reports-ar-2025/paraguay.pdf",
+      "en": "reports-en-2025/paraguay.pdf",
+      "ar_bytes": 5355101,
+      "en_bytes": 5979407
+    },
+    "Peru": {
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "ar": "reports-ar-2025/peru.pdf",
+      "en": "reports-en-2025/peru.pdf",
+      "ar_bytes": 5378212,
+      "en_bytes": 5981696
+    },
+    "Philippines": {
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "ar": "reports-ar-2025/philippines.pdf",
+      "en": "reports-en-2025/philippines.pdf",
+      "ar_bytes": 5493434,
+      "en_bytes": 6098083
+    },
+    "Poland": {
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "ar": "reports-ar-2025/poland.pdf",
+      "en": "reports-en-2025/poland.pdf",
+      "ar_bytes": 5458483,
+      "en_bytes": 6059041
+    },
+    "Portugal": {
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "ar": "reports-ar-2025/portugal.pdf",
+      "en": "reports-en-2025/portugal.pdf",
+      "ar_bytes": 5471910,
+      "en_bytes": 6070652
+    },
+    "Qatar": {
+      "country_ar": "قطر",
+      "country_en": "Qatar",
+      "ar": "reports-ar-2025/qatar.pdf",
+      "en": "reports-en-2025/qatar.pdf",
+      "ar_bytes": 5485276,
+      "en_bytes": 6097658
+    },
+    "Romania": {
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "ar": "reports-ar-2025/romania.pdf",
+      "en": "reports-en-2025/romania.pdf",
+      "ar_bytes": 5448910,
+      "en_bytes": 6065007
+    },
+    "Russian Federation": {
+      "country_ar": "الاتحاد الروسي",
+      "country_en": "Russian Federation",
+      "ar": "reports-ar-2025/russian-federation.pdf",
+      "en": "reports-en-2025/russian-federation.pdf",
+      "ar_bytes": 5451249,
+      "en_bytes": 6053636
+    },
+    "Rwanda": {
+      "country_ar": "رواندا",
+      "country_en": "Rwanda",
+      "ar": "reports-ar-2025/rwanda.pdf",
+      "en": "reports-en-2025/rwanda.pdf",
+      "ar_bytes": 5334542,
+      "en_bytes": 5969965
+    },
+    "Réunion": {
+      "country_ar": "ريونيون",
+      "country_en": "Réunion",
+      "ar": "reports-ar-2025/r-union.pdf",
+      "en": "reports-en-2025/r-union.pdf",
+      "ar_bytes": 5258295,
+      "en_bytes": 5868363
+    },
+    "Saudi Arabia": {
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "ar": "reports-ar-2025/saudi-arabia.pdf",
+      "en": "reports-en-2025/saudi-arabia.pdf",
+      "ar_bytes": 5563600,
+      "en_bytes": 6147915
+    },
+    "Senegal": {
+      "country_ar": "السنغال",
+      "country_en": "Senegal",
+      "ar": "reports-ar-2025/senegal.pdf",
+      "en": "reports-en-2025/senegal.pdf",
+      "ar_bytes": 5368348,
+      "en_bytes": 5969705
+    },
+    "Serbia": {
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "ar": "reports-ar-2025/serbia.pdf",
+      "en": "reports-en-2025/serbia.pdf",
+      "ar_bytes": 5476591,
+      "en_bytes": 6093802
+    },
+    "Sierra Leone": {
+      "country_ar": "سيراليون",
+      "country_en": "Sierra Leone",
+      "ar": "reports-ar-2025/sierra-leone.pdf",
+      "en": "reports-en-2025/sierra-leone.pdf",
+      "ar_bytes": 5306238,
+      "en_bytes": 5918530
+    },
+    "Singapore": {
+      "country_ar": "سنغافورة",
+      "country_en": "Singapore",
+      "ar": "reports-ar-2025/singapore.pdf",
+      "en": "reports-en-2025/singapore.pdf",
+      "ar_bytes": 5461094,
+      "en_bytes": 6062809
+    },
+    "Slovakia": {
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "ar": "reports-ar-2025/slovakia.pdf",
+      "en": "reports-en-2025/slovakia.pdf",
+      "ar_bytes": 5413925,
+      "en_bytes": 6028378
+    },
+    "Slovenia": {
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "ar": "reports-ar-2025/slovenia.pdf",
+      "en": "reports-en-2025/slovenia.pdf",
+      "ar_bytes": 5379685,
+      "en_bytes": 5991817
+    },
+    "Somalia": {
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "ar": "reports-ar-2025/somalia.pdf",
+      "en": "reports-en-2025/somalia.pdf",
+      "ar_bytes": 5342912,
+      "en_bytes": 5961449
+    },
+    "South Africa": {
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "ar": "reports-ar-2025/south-africa.pdf",
+      "en": "reports-en-2025/south-africa.pdf",
+      "ar_bytes": 5515131,
+      "en_bytes": 6117652
+    },
+    "South Korea": {
+      "country_ar": "كوريا الجنوبية",
+      "country_en": "South Korea",
+      "ar": "reports-ar-2025/south-korea.pdf",
+      "en": "reports-en-2025/south-korea.pdf",
+      "ar_bytes": 5543493,
+      "en_bytes": 6144614
+    },
+    "South Sudan": {
+      "country_ar": "جنوب السودان",
+      "country_en": "South Sudan",
+      "ar": "reports-ar-2025/south-sudan.pdf",
+      "en": "reports-en-2025/south-sudan.pdf",
+      "ar_bytes": 5295643,
+      "en_bytes": 5925053
+    },
+    "Spain": {
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "ar": "reports-ar-2025/spain.pdf",
+      "en": "reports-en-2025/spain.pdf",
+      "ar_bytes": 5524197,
+      "en_bytes": 6126243
+    },
+    "Sri Lanka": {
+      "country_ar": "سري لانكا",
+      "country_en": "Sri Lanka",
+      "ar": "reports-ar-2025/sri-lanka.pdf",
+      "en": "reports-en-2025/sri-lanka.pdf",
+      "ar_bytes": 5520533,
+      "en_bytes": 6117901
+    },
+    "State of Palestine": {
+      "country_ar": "دولة فلسطين",
+      "country_en": "State of Palestine",
+      "ar": "reports-ar-2025/state-of-palestine.pdf",
+      "en": "reports-en-2025/state-of-palestine.pdf",
+      "ar_bytes": 5503277,
+      "en_bytes": 6109798
+    },
+    "Sudan": {
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "ar": "reports-ar-2025/sudan.pdf",
+      "en": "reports-en-2025/sudan.pdf",
+      "ar_bytes": 5407831,
+      "en_bytes": 5925053
+    },
+    "Sweden": {
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "ar": "reports-ar-2025/sweden.pdf",
+      "en": "reports-en-2025/sweden.pdf",
+      "ar_bytes": 5457480,
+      "en_bytes": 6070656
+    },
+    "Switzerland": {
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "ar": "reports-ar-2025/switzerland.pdf",
+      "en": "reports-en-2025/switzerland.pdf",
+      "ar_bytes": 5445432,
+      "en_bytes": 6061957
+    },
+    "Syria": {
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "ar": "reports-ar-2025/syria.pdf",
+      "en": "reports-en-2025/syria.pdf",
+      "ar_bytes": 5485974,
+      "en_bytes": 6082720
+    },
+    "Taiwan": {
+      "country_ar": "تايوان",
+      "country_en": "Taiwan",
+      "ar": "reports-ar-2025/taiwan.pdf",
+      "en": "reports-en-2025/taiwan.pdf",
+      "ar_bytes": 5488272,
+      "en_bytes": 6082765
+    },
+    "Tajikistan": {
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "ar": "reports-ar-2025/tajikistan.pdf",
+      "en": "reports-en-2025/tajikistan.pdf",
+      "ar_bytes": 5304457,
+      "en_bytes": 5929442
+    },
+    "Tanzania": {
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "ar": "reports-ar-2025/tanzania.pdf",
+      "en": "reports-en-2025/tanzania.pdf",
+      "ar_bytes": 5437635,
+      "en_bytes": 6055826
+    },
+    "Thailand": {
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "ar": "reports-ar-2025/thailand.pdf",
+      "en": "reports-en-2025/thailand.pdf",
+      "ar_bytes": 5453821,
+      "en_bytes": 6055993
+    },
+    "Togo": {
+      "country_ar": "توغو",
+      "country_en": "Togo",
+      "ar": "reports-ar-2025/togo.pdf",
+      "en": "reports-en-2025/togo.pdf",
+      "ar_bytes": 5280898,
+      "en_bytes": 5892463
+    },
+    "Tunisia": {
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "ar": "reports-ar-2025/tunisia.pdf",
+      "en": "reports-en-2025/tunisia.pdf",
+      "ar_bytes": 5492955,
+      "en_bytes": 6099911
+    },
+    "Turkmenistan": {
+      "country_ar": "تركمانستان",
+      "country_en": "Turkmenistan",
+      "ar": "reports-ar-2025/turkmenistan.pdf",
+      "en": "reports-en-2025/turkmenistan.pdf",
+      "ar_bytes": 5320913,
+      "en_bytes": 5930873
+    },
+    "Türkiye": {
+      "country_ar": "تركيا",
+      "country_en": "Türkiye",
+      "ar": "reports-ar-2025/t-rkiye.pdf",
+      "en": "reports-en-2025/t-rkiye.pdf",
+      "ar_bytes": 5521915,
+      "en_bytes": 6135207
+    },
+    "Uganda": {
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "ar": "reports-ar-2025/uganda.pdf",
+      "en": "reports-en-2025/uganda.pdf",
+      "ar_bytes": 5401821,
+      "en_bytes": 6003033
+    },
+    "Ukraine": {
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "ar": "reports-ar-2025/ukraine.pdf",
+      "en": "reports-en-2025/ukraine.pdf",
+      "ar_bytes": 5411579,
+      "en_bytes": 6017448
+    },
+    "United Arab Emirates": {
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_en": "United Arab Emirates",
+      "ar": "reports-ar-2025/united-arab-emirates.pdf",
+      "en": "reports-en-2025/united-arab-emirates.pdf",
+      "ar_bytes": 5503074,
+      "en_bytes": 6094463
+    },
+    "United Kingdom": {
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "ar": "reports-ar-2025/united-kingdom.pdf",
+      "en": "reports-en-2025/united-kingdom.pdf",
+      "ar_bytes": 5554050,
+      "en_bytes": 6169543
     },
     "United States": {
       "country_ar": "الولايات المتحدة الأمريكية",
       "country_en": "United States",
-      "ar": "ar/united-states.pdf",
+      "ar": "reports-ar-2025/united-states.pdf",
+      "en": "reports-en-2025/united-states.pdf",
       "ar_bytes": 5537606,
-      "ar_generated_at": "2026-10-09T13:03:39.154102+00:00"
+      "en_bytes": 6134678
+    },
+    "Uruguay": {
+      "country_ar": "أوروغواي",
+      "country_en": "Uruguay",
+      "ar": "reports-ar-2025/uruguay.pdf",
+      "en": "reports-en-2025/uruguay.pdf",
+      "ar_bytes": 5409694,
+      "en_bytes": 6025379
+    },
+    "Uzbekistan": {
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "ar": "reports-ar-2025/uzbekistan.pdf",
+      "en": "reports-en-2025/uzbekistan.pdf",
+      "ar_bytes": 5353099,
+      "en_bytes": 5968807
+    },
+    "Venezuela": {
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "ar": "reports-ar-2025/venezuela.pdf",
+      "en": "reports-en-2025/venezuela.pdf",
+      "ar_bytes": 5400046,
+      "en_bytes": 6017106
+    },
+    "Viet Nam": {
+      "country_ar": "فيتنام",
+      "country_en": "Viet Nam",
+      "ar": "reports-ar-2025/viet-nam.pdf",
+      "en": "reports-en-2025/viet-nam.pdf",
+      "ar_bytes": 5485756,
+      "en_bytes": 6081832
+    },
+    "Yemen": {
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "ar": "reports-ar-2025/yemen.pdf",
+      "en": "reports-en-2025/yemen.pdf",
+      "ar_bytes": 5421258,
+      "en_bytes": 6100649
+    },
+    "Zambia": {
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "ar": "reports-ar-2025/zambia.pdf",
+      "en": "reports-en-2025/zambia.pdf",
+      "ar_bytes": 5286031,
+      "en_bytes": 5908199
+    },
+    "Zimbabwe": {
+      "country_ar": "زمبابوي",
+      "country_en": "Zimbabwe",
+      "ar": "reports-ar-2025/zimbabwe.pdf",
+      "en": "reports-en-2025/zimbabwe.pdf",
+      "ar_bytes": 5342570,
+      "en_bytes": 5971427
     }
   }
 }
