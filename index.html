@@ -21,9 +21,15 @@ small{color:#6b7f94}
 <script>
 fetch('manifest.json').then(r=>r.json()).then(m=>{
  const entries=Object.values(m.reports||{});
+ const base=String(m.base_url||'').replace(/\/+$/,'');
+ const reportUrl=(path)=>{
+   const p=String(path||'');
+   if(/^https?:\/\//i.test(p)) return p;
+   return base ? base+'/'+p.replace(/^\/+/, '') : p;
+ };
  document.getElementById('status').textContent='عدد الدول المتاحة: '+entries.length;
- const ar=entries.filter(x=>x.ar).map(x=>`<li><a href="${x.ar}">${x.country_ar||x.country_en}</a></li>`).join('');
- const en=entries.filter(x=>x.en).map(x=>`<li><a href="${x.en}">${x.country_en}</a></li>`).join('');
+ const ar=entries.filter(x=>x.ar).map(x=>`<li><a href="${reportUrl(x.ar)}">${x.country_ar||x.country_en}</a></li>`).join('');
+ const en=entries.filter(x=>x.en).map(x=>`<li><a href="${reportUrl(x.en)}">${x.country_en}</a></li>`).join('');
  document.getElementById('lists').innerHTML=`<h2>العربية</h2><ul>${ar||'<li>لا توجد تقارير بعد.</li>'}</ul><h2>English</h2><ul dir="ltr">${en||'<li>No reports yet.</li>'}</ul>`;
 }).catch(()=>document.getElementById('status').textContent='تعذر قراءة قائمة التقارير.');
 </script></body></html>
